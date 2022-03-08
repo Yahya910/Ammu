@@ -4,8 +4,8 @@
   <img border-radius: 15px src="https://i.imgur.com/wwhvgxI.jpeg" width="200" height="200"/>
 
 <p align="center">
-  <a href="https://instagram.com/_i.am_devil"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/17014197451"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/kopz_xd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/212693222334"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## `JOIN AMMU WHATSAPP GROUP`
